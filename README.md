@@ -9,9 +9,9 @@ marianabentancor2@gmail.com
 
 ## Cursos
 
-2022. * **Tester de Software - Jóvenes a Programar (230hs):** Princiaples componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
-2022. Agile Foundations. Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
-2008. Curso operador PC. ADEOM. Principales componentes: Word, Excel, Access, Power Point.
+**Tester de Software - Jóvenes a Programar (230hs):** Princiaples componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+**Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
+**Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
 
 ## Herramientas
 Jira (básico)
