@@ -28,3 +28,9 @@ marianabentancor2@gmail.com
 
 ## Mi trabajo
 
+**IT**
+
+**Traducción**
+* LocJam (localización de un videojuego de inglés a español en 72hs): https://locats.itch.io/intergalactic-wizards-force
+
+**Otros**
