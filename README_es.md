@@ -47,6 +47,8 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Casos de Prueba
       * Gestión de incidentes
       * Informe de pruebas
+    
+ * **Web Development**
 
 
 **Traducción**
