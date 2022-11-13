@@ -17,7 +17,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Learn Basic CSS by Building a Café Menu
       * Learn CSS Colors by Building a Set of Colored Markers
       * Learn HTML Forms by Building a Registration Form
-      * Certification Project: Survey Form
+      * **Certification Project: Survey Form**
       * Learn CSS Box Model by Building a Rothko Painting
       * Learn CSS Flexbox by Building a Photo Gallery
       * Learn Typography by Building a Nutrition Label
@@ -47,9 +47,9 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Casos de Prueba
       * Gestión de incidentes
       * Informe de pruebas
-      * Especificaión de requerimientos (ESRE)
+      * Especificación de requerimientos (ESRE)
     
- * **Web Development**
+ * **Desarrollo web**
 
 
 **Traducción**
