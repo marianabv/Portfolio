@@ -23,7 +23,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * Netbeans
 
 ## Libros
-* "A Theory for Fun Game Design" - Raph Koster 
+* _A Theory for Fun Game Design_ - Raph Koster 
 
 
 ## Mi trabajo
