@@ -7,8 +7,8 @@ Lee esto en otros idiomas: ![English](https://github.com/marianabv/Portfolio/blo
 Traductora Pública Inglés-Español con formación anterior en informática y Tester Jr . Además de mis habilidades técnicas relacionadas con el testing, he adquirido varias competencias y conocimientos transferibles a esta área de la informática, como por ejemplo, buena comunicación escrita, curiosidad intelectual y métodos de investigación, la importancia y el correcto formato de las referencias al material consultado, proactividad, puntualidad y responsabilidad con las entregas, así como atención al detalle y mejorar mis habilidades de inglés, principalmente escrito.  Aun así, sigo apuntando a más ya que tengo la convicción de que el conocimiento es una fuente inagotable y nunca sobra, ni en idiomas ni en tecnología.
 
 ## Contacto
-* https://www.linkedin.com/in/marianabentancorvero/
-* marianabentancor2@gmail.com
+* ![LinkedIn](https://www.linkedin.com/in/marianabentancorvero/)
+* E-Mail: marianabentancor2@gmail.com
 
 ## Cursos
 * **(New) Responsive Web Design** - FreeCodeCamp
