@@ -33,6 +33,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 
 **IT**
 
+
 **Traducción**
 * LocJam (localización de un videojuego de inglés a español en 72hs): https://locats.itch.io/intergalactic-wizards-force
 
