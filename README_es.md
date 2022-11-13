@@ -42,6 +42,11 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 ## Mi trabajo
 
 **IT**
+* **Testing**
+   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
+      * Casos de Prueba
+      * Gestión de incidentes
+      * Informe de pruebas
 
 
 **Traducción**
