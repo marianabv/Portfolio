@@ -13,7 +13,7 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 ## Courses
 
 * **Tester de Software - Jóvenes a Programar (230hs):** Relevant Skills and Technologies: Test Case Execution, Test Case Design, Use Case Design, User Stories, Positive and Negative Testing (Black Box), Boundary-value Analysis and Equivalence Partitioning, Test Incident Report, Test Status Report.
-* **Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
+* **Agile Foundations.** Linkedin Learning. Agile, Scrum.
 
 
 ## Tools
