@@ -12,7 +12,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 
 ## Cursos
 * **(New) Responsive Web Design** - FreeCodeCamp
-    **Unidades completas:**
+    * **Unidades completas:**
       * Learn HTML by Building a Cat Photo App
       * Learn Basic CSS by Building a Café Menu
       * Learn CSS Colors by Building a Set of Colored Markers
