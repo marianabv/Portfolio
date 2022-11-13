@@ -11,8 +11,18 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 * E-Mail: marianabentancor2@gmail.com
 
 ## Courses
-
-* **Tester de Software - Jóvenes a Programar (230hs):** Relevant Skills and Technologies: Test Case Execution, Test Case Design, Use Case Design, User Stories, Positive and Negative Testing (Black Box), Boundary-value Analysis and Equivalence Partitioning, Test Incident Report, Test Status Report.
+* **(New) Responsive Web Design** - FreeCodeCamp
+    **Completed modules:**
+      * Learn HTML by Building a Cat Photo App
+      * Learn Basic CSS by Building a Café Menu
+      * Learn CSS Colors by Building a Set of Colored Markers
+      * Learn HTML Forms by Building a Registration Form
+      * Certification Project: Survey Form
+      * Learn CSS Box Model by Building a Rothko Painting
+      * Learn CSS Flexbox by Building a Photo Gallery
+      * Learn Typography by Building a Nutrition Label
+* **HTML Course** - Code Academy  
+* **Tester Jr. (Manual) - Jóvenes a Programar (230hs):** Relevant Skills and Technologies: Test Case Execution, Test Case Design, Use Case Design, User Stories, Positive and Negative Testing (Black Box), Boundary-value Analysis and Equivalence Partitioning, Test Incident Report, Test Status Report.
 * **Agile Foundations.** Linkedin Learning. Agile, Scrum.
 
 
