@@ -61,7 +61,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
     
  * **Desarrollo web**
-   * **freeCodeCamp: [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
+   * **freeCodeCamp:** [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
 
 **Traducción**
 * LocJam (localización de un videojuego de inglés a español en 72hs): https://locats.itch.io/intergalactic-wizards-force
