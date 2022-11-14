@@ -72,8 +72,8 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * [Instalación de servicios en un servidor](https://drive.google.com/file/d/1ELrEG1oFLjpfH0U3rqaJAMzkdH5sws0J/view?usp=sharing)
  
 * **Requerimientos, manuales de usuario y documentación general**
-      * [Especificación de requerimientos - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
-      * [Manual - Atenea (software para préstamo de libros en una biblioteca)](https://drive.google.com/file/d/1vZj1VKs6Wffxs3QsB1zezJrT5GPIW18Y/view?usp=sharing)
+      *[Especificación de requierimientos - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
+      *[Manual - Atenea (software para préstamo de libros en una biblioteca)](https://drive.google.com/file/d/1vZj1VKs6Wffxs3QsB1zezJrT5GPIW18Y/view?usp=sharing)
 
 <hr/>
 
