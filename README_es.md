@@ -61,9 +61,33 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
     
  * **Desarrollo web**
-   * **freeCodeCamp:** [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
+   * [**freeCodeCamp:**](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
+
+* **Java**
+*  
+* **Redes**
+   * **Prácticas con Cisco Packet Tracer**
+      * [Switching](https://drive.google.com/file/d/1mGF-gNNYLyMHtOEPZb8lg8ztR8lHhBkE/view?usp=sharing)
+      * [Conectar tres redes con dos routers](https://drive.google.com/file/d/16obhmaQ7Y5WC6jj-lgSuReglWdsZgzn8/view?usp=sharing)
+      * [Instalación de servicios en un servidor] (https://drive.google.com/file/d/1ELrEG1oFLjpfH0U3rqaJAMzkdH5sws0J/view?usp=sharing)
+ 
+ **Requerimientos, manuales de usuario y documentación general**
+      *[Especificación de requerimientos - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
+      *[Manual - Atenea (software para préstamo de libros en una biblioteca)](https://drive.google.com/file/d/1vZj1VKs6Wffxs3QsB1zezJrT5GPIW18Y/view?usp=sharing)
+
 
 **Traducción**
-* LocJam (localización de un videojuego de inglés a español en 72hs): https://locats.itch.io/intergalactic-wizards-force
+   **Localizacion de videojuegos**
+      * [LocJam (localización de un videojuego de inglés a español en 72hs)] (https://locats.itch.io/intergalactic-wizards-force)
+
+   **Análisis sobre traducción o localización**
+      * **En ingles:**
+         * (Comparative Commentary about two translations into Spanish of “The Yellow Wallpaper” by Charlotte Perkins Gilman)[https://drive.google.com/file/d/1a-rTQ58fKKEKuInxGyeFr2gqA2URt4ds/view?usp=sharing]
+         * (What challenges do translators face when localizing video games?)[https://drive.google.com/file/d/16ZWMhZLiQ-pEi1Z4d3n8j8RypP2kd08G/view?usp=sharing]
+      *  **En español:**
+      
+   **Otros análisis**
+
 
 **Otros**
+    **Sociología:**
