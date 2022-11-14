@@ -25,6 +25,12 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 * **HTML Course** - Code Academy  
 * **Tester Jr. (Manual) - Jóvenes a Programar (230hs):** Relevant Skills and Technologies: Test Case Execution, Test Case Design, Use Case Design, User Stories, Positive and Negative Testing (Black Box), Boundary-value Analysis and Equivalence Partitioning, Test Incident Report, Test Status Report.
 * **Agile Foundations.** Linkedin Learning. Agile, Scrum.
+* **Mi primer juego con Unity 5** - Unity, Game Development
+
+
+## Mini Courses
+* **Finding and Benefiting from a Mentor** Linkedin Learning. 
+* **Cover Letter Tips** Linkedin Learning
 
 
 ## Tools
