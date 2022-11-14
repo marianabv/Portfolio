@@ -17,10 +17,12 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Learn Basic CSS by Building a Café Menu
       * Learn CSS Colors by Building a Set of Colored Markers
       * Learn HTML Forms by Building a Registration Form
-      * [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - In progress
+      * [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
       * Learn CSS Box Model by Building a Rothko Painting
       * Learn CSS Flexbox by Building a Photo Gallery
       * Learn Typography by Building a Nutrition Label
+
+
 * **HTML Course** - Code Academy  
 * **Tester de Software - Jóvenes a Programar (230hs):** Princiaples componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * **Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
