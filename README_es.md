@@ -26,14 +26,14 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 
 * **HTML Course** - Code Academy  
 * **Tester de Software - Jóvenes a Programar (230hs):** Principales componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
-* **Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
+* **Agile Foundations.** Linkedin Learning - Doug Rose. Principales componentes: Metodologías ágiles, Scrum.
 * **Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
 *  **Mi primer juego con Unity 5** - Unity, Game Development
 
 
 ## Mini Cursos
-* **Finding and Benefiting from a Mentor** Linkedin Learning. 
-* **Cover Letter Tips** Linkedin Learning
+* **Finding and Benefiting from a Mentor** Linkedin Learning - Jenny Foss. 
+* **Cover Letter Tips** Linkedin Learning - Careercake.
 
 
 ## Herramientas
