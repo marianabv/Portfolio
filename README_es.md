@@ -54,14 +54,14 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 **IT**
 * **Testing**
    * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-      * [Especificación de requierimientos](https://drive.google.com/file/d/17RlS9YAlslo_ZJAYx8p7WkBLyyiF3QQx/view?usp=sharing))
-      * [Casos de prueba (particiones de equivalencia, valores límite, testing positivo y testing negativo](https://docs.google.com/spreadsheets/d/1rUAnQsvaejTNp6m7eQDS_xmyJ6kvtDkM/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true))
-      * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing))
-      * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true))
-      * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing))
+      * [Especificación de requierimientos](https://drive.google.com/file/d/17RlS9YAlslo_ZJAYx8p7WkBLyyiF3QQx/view?usp=sharing)
+      * [Casos de prueba (particiones de equivalencia, valores límite, testing positivo y testing negativo](https://docs.google.com/spreadsheets/d/1rUAnQsvaejTNp6m7eQDS_xmyJ6kvtDkM/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
+      * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing)
+      * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
+      * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
     
  * **Desarrollo web**
-
+   * **freeCodeCamp: [**Certification Project: Survey Form**](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso
 
 **Traducción**
 * LocJam (localización de un videojuego de inglés a español en 72hs): https://locats.itch.io/intergalactic-wizards-force
