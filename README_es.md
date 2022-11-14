@@ -27,6 +27,13 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * **Tester de Software - Jóvenes a Programar (230hs):** Princiaples componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * **Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
 * **Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
+*  **Mi primer juego con Unity 5** - Unity, Game Development
+
+
+## Mini Courses
+* **Finding and Benefiting from a Mentor** Linkedin Learning. 
+* **Cover Letter Tips** Linkedin Learning
+
 
 ## Herramientas
 * Jira (básico)
