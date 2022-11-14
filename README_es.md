@@ -54,10 +54,11 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 **IT**
 * **Testing**
    * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-      * Casos de Prueba
-      * Gestión de incidentes
-      * Informe de pruebas
-      * Especificación de requerimientos (ESRE)
+      * [Especificación de rquierimientos]([https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i](https://drive.google.com/file/d/17RlS9YAlslo_ZJAYx8p7WkBLyyiF3QQx/view?usp=sharing))
+      * [Casos de prueba (particiones de equivalencia, valores límite, testing positivo y testing negativo]([https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i](https://docs.google.com/spreadsheets/d/1rUAnQsvaejTNp6m7eQDS_xmyJ6kvtDkM/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true))
+      * [Capturas de ejecución de casos de prueba]([https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing))
+      * [Gestión de incidentes]([https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true))
+      * [Informe de pruebas]([https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing))
     
  * **Desarrollo web**
 
