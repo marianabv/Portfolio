@@ -17,7 +17,7 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
          * Learn Basic CSS by Building a Café Menu  
          * Learn CSS Colors by Building a Set of Colored Markers     
          * Learn HTML Forms by Building a Registration Form       
-         * [Certification Project: Survey Form](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - En progreso      
+         * [Certification Project: Survey Form](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - In progress    
          * Learn CSS Box Model by Building a Rothko Painting
          * Learn CSS Flexbox by Building a Photo Gallery  
          * Learn Typography by Building a Nutrition Label
