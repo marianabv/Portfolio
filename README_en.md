@@ -17,20 +17,21 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
          * Learn Basic CSS by Building a Café Menu  
          * Learn CSS Colors by Building a Set of Colored Markers     
          * Learn HTML Forms by Building a Registration Form       
-         * [Certification Project: Survey Form](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - In progress    
+         * [Certification Project: Survey Form](https://github.com/marianabv/FreeCodeCamp_SurveyForm) - Ongoing    
          * Learn CSS Box Model by Building a Rothko Painting
          * Learn CSS Flexbox by Building a Photo Gallery  
          * Learn Typography by Building a Nutrition Label
+         * Learn Accessibility by Building a Quiz - Ongoing
          
 * **HTML Course** - Code Academy  
 * **Tester Jr. (Manual) - Jóvenes a Programar (230hs):** Relevant Skills and Technologies: Test Case Execution, Test Case Design, Use Case Design, User Stories, Positive and Negative Testing (Black Box), Boundary-value Analysis and Equivalence Partitioning, Test Incident Report, Test Status Report.
-* **Agile Foundations.** Linkedin Learning. Agile, Scrum.
+* **Agile Foundations.** Linkedin Learning - Doug Rose. Agile, Scrum.
 * **Mi primer juego con Unity 5** - Unity, Game Development
 
 
 ## Mini Courses
-* **Finding and Benefiting from a Mentor** Linkedin Learning. 
-* **Cover Letter Tips** Linkedin Learning
+* **Finding and Benefiting from a Mentor** Linkedin Learning - Jenny Foss. 
+* **Cover Letter Tips** Linkedin Learning - Careercake.
 
 
 ## Tools
