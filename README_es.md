@@ -80,7 +80,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 
 **Traducción**
    * **Localizacion de videojuegos**
-      * [LocJam (localización de un videojuego de inglés a español en 72hs)] (https://locats.itch.io/intergalactic-wizards-force)
+     * [LocJam (localización de un videojuego de inglés a español en 72hs)](https://locats.itch.io/intergalactic-wizards-force)
 
    * **Análisis sobre traducción o localización**
       * **En ingles:**
