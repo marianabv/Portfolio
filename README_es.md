@@ -21,16 +21,17 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Learn CSS Box Model by Building a Rothko Painting
       * Learn CSS Flexbox by Building a Photo Gallery
       * Learn Typography by Building a Nutrition Label
+      * Learning Accessibility by Building a Quiz - en progreso
 
 
 * **HTML Course** - Code Academy  
-* **Tester de Software - Jóvenes a Programar (230hs):** Princiaples componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+* **Tester de Software - Jóvenes a Programar (230hs):** Principales componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * **Agile Foundations.** Linkedin Learning. Principales componentes: Metodologías ágiles, Scrum.
 * **Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
 *  **Mi primer juego con Unity 5** - Unity, Game Development
 
 
-## Mini Courses
+## Mini Cursos
 * **Finding and Benefiting from a Mentor** Linkedin Learning. 
 * **Cover Letter Tips** Linkedin Learning
 
