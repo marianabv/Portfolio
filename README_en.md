@@ -59,7 +59,7 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 ### Portuguese
 
 ## Currently reading:
-* _Neurona financiera_ - Rodrigo Alvarez (Spanish)
+* _Neurona financiera_ - Rodrigo Álvarez (Spanish)
 
 ## My Projects
 
