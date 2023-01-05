@@ -45,10 +45,21 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 * SQL Server (Novice)
 
 
-## Books
+## Books Read
+### English:
 * _A Theory for Fun Game Design_ - Raph Koster 
-* 
+* _Atomic Habits_ - James Clear
+* _Ultralearning_ - Scott Young
+* _Deep Work_ - Cal Newport
+* _Digital Minimalism_ - Cal Newport
+* _Indistractable_ - Cal Newport
+* _Permanent Record_ - Edward Snowden
 
+### Spanish
+### Portuguese
+
+## Currently reading:
+* _Neurona financiera_ - Rodrigo Alvarez (Spanish)
 
 ## My Projects
 
