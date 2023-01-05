@@ -54,7 +54,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * _Digital Minimalism_ - Cal Newport
 * _Indistractable_ - Cal Newport
 * _Permanent Record_ - Edward Snowden
-### En español
+### En español:
 ### En portugués
 
 ## Leyendo:
