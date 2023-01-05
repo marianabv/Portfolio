@@ -63,7 +63,34 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 
 ## My Projects
 
-**IT**
+### IT
+#### Testing
+##### Spanish
+   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
+      * [Especificación de requierimientos](https://drive.google.com/file/d/17RlS9YAlslo_ZJAYx8p7WkBLyyiF3QQx/view?usp=sharing)
+      * [Casos de prueba (particiones de equivalencia, valores límite, testing positivo y testing negativo](https://docs.google.com/spreadsheets/d/1rUAnQsvaejTNp6m7eQDS_xmyJ6kvtDkM/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
+      * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing)
+      * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
+      * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
+    
+#### Web Development
+   * [**freeCodeCamp:**](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) - Ongoing
+
+* **Java**
+
+#### Networking
+##### Spanish
+   * **Cisco Packet Tracer**
+      * [Switching](https://drive.google.com/file/d/1mGF-gNNYLyMHtOEPZb8lg8ztR8lHhBkE/view?usp=sharing)
+      * [Conectar tres redes con dos routers](https://drive.google.com/file/d/16obhmaQ7Y5WC6jj-lgSuReglWdsZgzn8/view?usp=sharing)
+      * [Instalación de servicios en un servidor](https://drive.google.com/file/d/1ELrEG1oFLjpfH0U3rqaJAMzkdH5sws0J/view?usp=sharing)
+ 
+#### Requerimientos, manuales de usuario y documentación general
+##### Spanish
+ * [Requiriments Specification - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
+ * [User Manual - Atenea (Library Software made in class)](https://drive.google.com/file/d/1vZj1VKs6Wffxs3QsB1zezJrT5GPIW18Y/view?usp=sharing)
+
+<hr/>
 
 **Translation**
    * Game Localization:
