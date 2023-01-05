@@ -66,7 +66,7 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 ### IT
 #### Testing
 ##### Spanish
-   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
+   * [E-Commerce](https://japceibal.github.io/e-mercado-TESTING/index.html):
       * [Especificación de requierimientos](https://drive.google.com/file/d/17RlS9YAlslo_ZJAYx8p7WkBLyyiF3QQx/view?usp=sharing)
       * [Casos de prueba (particiones de equivalencia, valores límite, testing positivo y testing negativo](https://docs.google.com/spreadsheets/d/1rUAnQsvaejTNp6m7eQDS_xmyJ6kvtDkM/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
       * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing)
@@ -87,7 +87,7 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
  
 #### Requerimientos, manuales de usuario y documentación general
 ##### Spanish
- * [Requiriments Specification - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
+ * [Requirements Specification - MAITS](https://drive.google.com/file/d/15AEu23vilcIVj97JIlSMTpSDF-J-Pfo3/view?usp=sharing)
  * [User Manual - Atenea (Library Software made in class)](https://drive.google.com/file/d/1vZj1VKs6Wffxs3QsB1zezJrT5GPIW18Y/view?usp=sharing)
 
 <hr/>
