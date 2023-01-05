@@ -45,8 +45,20 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * MySQL Workbench
 * Netbeans
 
-## Libros
+## Libros leídos
+### En inglés:
 * _A Theory for Fun Game Design_ - Raph Koster 
+* _Atomic Habits_ - James Clear
+* _Ultralearning_ - Scott Young
+* _Deep Work_ - Cal Newport
+* _Digital Minimalism_ - Cal Newport
+* _Indistractable_ - Cal Newport
+* _Permanent Record_ - Edward Snowden
+### En español
+### En portugués
+
+## Leyendo:
+* _Neurona financiera_ - Rodrigo Alvarez (en español)
 
 
 ## Mi trabajo
