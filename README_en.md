@@ -69,10 +69,9 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
    * Game Localization:
       * LocJam (localizing a videogame from English into Spanish in 72hs):  https://locats.itch.io/intergalactic-wizards-force
    * Essays:
-      * **In English:**
+      * **English:**
          * [Comparative Commentary about two translations into Spanish of “The Yellow Wallpaper” by Charlotte Perkins Gilman](https://drive.google.com/file/d/1a-rTQ58fKKEKuInxGyeFr2gqA2URt4ds/view?usp=sharing)
          * [What challenges do translators face when localizing video games?](https://drive.google.com/file/d/16ZWMhZLiQ-pEi1Z4d3n8j8RypP2kd08G/view?usp=sharing)
-      *  **In Spanish:**
+      *  **Spanish:**
       
 
-**Others**
