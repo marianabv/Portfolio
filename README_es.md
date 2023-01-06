@@ -71,10 +71,8 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing)
       * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
       * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
-    
- * **Desarrollo web**
 
-* **Java**
+ 
 
 * **Redes**
    * **Prácticas con Cisco Packet Tracer**
