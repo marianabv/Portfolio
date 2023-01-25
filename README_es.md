@@ -11,6 +11,16 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * E-Mail: marianabentancor2@gmail.com
 
 ## Cursos
+* IBM Full Stack Developer - IBM Skills Network (via Coursera)
+   * [Introduction to Cloud Computing]()
+   * Introduction to Web Development with HTML, CSS, JavaScript
+   * Getting Started with Git and GitHub
+   * Developing Front-End Apps with React - **Ongoing**
+* [**Scrum Master Certification Specialization**]() - LearnQuest (via Coursera)
+   * [Introduction to Scrum Master Training]()
+   * [Scrum Master Certification: Scrum Methodologies]()
+   * [Scrum Master Certification: Scaling Agile and the Team-of-Teams]()
+   * [Combining Scrum with Other Agile Methodologies]()
 * **(New) Responsive Web Design** - FreeCodeCamp
     * **Unidades completas:**
       * Learn HTML by Building a Cat Photo App
@@ -22,6 +32,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * Learn CSS Flexbox by Building a Photo Gallery
       * Learn Typography by Building a Nutrition Label
       * Learning Accessibility by Building a Quiz - en progreso
+
 
 
 * **HTML Course** - Code Academy  
