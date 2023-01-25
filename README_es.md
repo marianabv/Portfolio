@@ -12,11 +12,11 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 
 ## Cursos
 * IBM Full Stack Developer - IBM Skills Network (via Coursera)
-   * [Introduction to Cloud Computing]()
+   * [Introduction to Cloud Computing](https://coursera.org/share/814868e7000653503ca4722c58f8d32e)
    * Introduction to Web Development with HTML, CSS, JavaScript
    * Getting Started with Git and GitHub
    * Developing Front-End Apps with React - **Ongoing**
-* [**Scrum Master Certification Specialization**]() - LearnQuest (via Coursera)
+* [**Scrum Master Certification Specialization**](https://coursera.org/share/b6eb1eccb295178d4e9ff1737eb96098) - LearnQuest (via Coursera)
    * [Introduction to Scrum Master Training]()
    * [Scrum Master Certification: Scrum Methodologies]()
    * [Scrum Master Certification: Scaling Agile and the Team-of-Teams]()
