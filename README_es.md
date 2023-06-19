@@ -11,11 +11,16 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * E-Mail: marianabentancor2@gmail.com
 
 ## Cursos
-* IBM Full Stack Developer - IBM Skills Network (via Coursera)
+* IBM Full Stack Developer - IBM Skills Network (via Coursera) **En progreso**
    * [Introduction to Cloud Computing](https://coursera.org/share/814868e7000653503ca4722c58f8d32e)
    * Introduction to Web Development with HTML, CSS, JavaScript
    * Getting Started with Git and GitHub
-   * Developing Front-End Apps with React - **Ongoing**
+   * Python for Data Science, AI & Development
+   * Developing Front-End Apps with React - **En progreso**
+* IBM DevOps and Software Engineering - IBM Skills Network (via Coursera) **En progreso**
+    * Introduction to Agile Development and Scrum
+    * Introduction to Software Engineering
+    * Hands-on Introduction to Linux Commands and Shell Scripting **En progreso**
 * [**Scrum Master Certification Specialization**](https://coursera.org/share/b6eb1eccb295178d4e9ff1737eb96098) - LearnQuest (via Coursera)
    * [Introduction to Scrum Master Training]()
    * [Scrum Master Certification: Scrum Methodologies]()
@@ -39,7 +44,13 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * **Tester de Software - Jóvenes a Programar (230hs):** Principales componentes: Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * **Agile Foundations.** Linkedin Learning - Doug Rose. Principales componentes: Metodologías ágiles, Scrum.
 * **Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
-*  **Mi primer juego con Unity 5** - Unity, Game Development
+* **Mi primer juego con Unity 5** - Unity, Game Development
+* **Introduction to Software Engineering** - IBM Skills Network (Coursera)
+* **Introduction to Cloud Computing** - IBM Skills Network (Coursera)
+* **Introduction to Web Development with HTML, CSS, JavaScript** - IBM Skills Network (Coursera)
+* **Getting Started with Git and GitHub** - IBM Skills Network (Coursera)
+* **Python for Data Science, AI & Development** - IBM Skills Network (Coursera)
+* **Introduction to Agile Development and Scrum** - IBM Skills Network (Coursera)
 
 
 ## Mini Cursos
@@ -65,8 +76,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
 * _Digital Minimalism_ - Cal Newport
 * _Indistractable_ - Cal Newport
 * _Permanent Record_ - Edward Snowden
-### En español:
-### En portugués
+
 
 ## Leyendo:
 * _Neurona financiera_ - Rodrigo Alvarez (en español)
@@ -82,6 +92,7 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * [Capturas de ejecución de casos de prueba](https://drive.google.com/file/d/1L6BGh1yYylYteb0RKBV48o9GCndZ6fHb/view?usp=sharing)
       * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1hwZnQoiJoMc1wEDRpCddNobdRENlpLsg/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
       * [Informe de pruebas](https://drive.google.com/file/d/14UWB5y3OGLCPIUumbfUz0Ke2YkmDiw86/view?usp=sharing)
+      * [Gestión de incidentes - Integridad de datos en la base de datos](https://docs.google.com/spreadsheets/d/1fvw3b21eupUzqTgF_atDyx9MXApP0U7V/edit?usp=sharing&ouid=109811958350959586399&rtpof=true&sd=true)
 
  
 
@@ -106,11 +117,4 @@ Traductora Pública Inglés-Español con formación anterior en informática y T
       * **En ingles:**
          * [Comparative Commentary about two translations into Spanish of “The Yellow Wallpaper” by Charlotte Perkins Gilman](https://drive.google.com/file/d/1a-rTQ58fKKEKuInxGyeFr2gqA2URt4ds/view?usp=sharing)
          * [What challenges do translators face when localizing video games?](https://drive.google.com/file/d/16ZWMhZLiQ-pEi1Z4d3n8j8RypP2kd08G/view?usp=sharing)
-      *  **En español:**
-      
-   * **Otros análisis**
 
-<hr/>
-
-**Otros**
-   * **Sociología:**
