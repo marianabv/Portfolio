@@ -32,13 +32,6 @@ Tester Jr. (Manual) con formación previa como Traductora Pública Inglés-Espa�
 * **Agile Foundations.** Linkedin Learning - Doug Rose. Principales componentes: Metodologías ágiles, Scrum.
 * **Curso operador PC.** ADEOM. Principales componentes: Word, Excel, Access, Power Point.
 * **Mi primer juego con Unity 5** - Unity, Game Development
-* **Introduction to Software Engineering** - IBM Skills Network (Coursera)
-* **Introduction to Cloud Computing** - IBM Skills Network (Coursera)
-* **Introduction to Web Development with HTML, CSS, JavaScript** - IBM Skills Network (Coursera)
-* **Getting Started with Git and GitHub** - IBM Skills Network (Coursera)
-* **Python for Data Science, AI & Development** - IBM Skills Network (Coursera)
-* **Introduction to Agile Development and Scrum** - IBM Skills Network (Coursera)
-
 
 ## Mini Cursos
 * **Finding and Benefiting from a Mentor** Linkedin Learning - Jenny Foss. 
