@@ -12,19 +12,19 @@ Tester Jr. (Manual) con formación previa como Traductora Pública Inglés-Espa�
 ## Cursos
 * IBM Full Stack Developer - IBM Skills Network (via Coursera) **En progreso**
    * [Introduction to Cloud Computing](https://coursera.org/share/814868e7000653503ca4722c58f8d32e)
-   * Introduction to Web Development with HTML, CSS, JavaScript
-   * Getting Started with Git and GitHub
-   * Python for Data Science, AI & Development
+   * [Introduction to Web Development with HTML, CSS, JavaScript](https://coursera.org/share/b24d3ef83521b9ba51f0fe55666447a3)
+   * [Getting Started with Git and GitHub](https://coursera.org/share/19fd6fd8de08bc9973d5d549b3cd85c9)
+   * [Python for Data Science, AI & Development](https://coursera.org/share/bf5d9a887cd8fd69d57e744c50f6e74b)
    * Developing Front-End Apps with React - **En progreso**
 * IBM DevOps and Software Engineering - IBM Skills Network (via Coursera) **En progreso**
-    * Introduction to Agile Development and Scrum
-    * Introduction to Software Engineering
+    * [Introduction to Agile Development and Scrum](https://coursera.org/share/91f05738debcd1535ee80cb10c82f414)
+    * [Introduction to Software Engineering]()
     * Hands-on Introduction to Linux Commands and Shell Scripting **En progreso**
-* [**Scrum Master Certification Specialization**](https://coursera.org/share/b6eb1eccb295178d4e9ff1737eb96098) - LearnQuest (via Coursera)
-   * [Introduction to Scrum Master Training]()
-   * [Scrum Master Certification: Scrum Methodologies]()
-   * [Scrum Master Certification: Scaling Agile and the Team-of-Teams]()
-   * [Combining Scrum with Other Agile Methodologies]()
+* [**Scrum Master Certification**](https://coursera.org/share/b6eb1eccb295178d4e9ff1737eb96098) - LearnQuest (via Coursera)
+   * [Introduction to Scrum Master Training](https://coursera.org/share/927244ef8c7c7e12a14abba7ef0c7c54)
+   * [Scrum Master Certification: Scrum Methodologies](https://coursera.org/share/28fd5adf35d0106a7101240b93eb2be6)
+   * [Scrum Master Certification: Scaling Agile and the Team-of-Teams](https://coursera.org/share/8cda67b5884c43416ebbb794cedd21d8)
+   * [Combining Scrum with Other Agile Methodologies](https://coursera.org/share/3d6834dfb528c31ccbc63c8f4853d3fa)
 
 
 * **HTML Course** - Code Academy  
