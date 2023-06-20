@@ -18,7 +18,7 @@ Tester Jr. (Manual) con formación previa como Traductora Pública Inglés-Espa�
    * Developing Front-End Apps with React - **En progreso**
 * IBM DevOps and Software Engineering - IBM Skills Network (via Coursera) **En progreso**
     * [Introduction to Agile Development and Scrum](https://coursera.org/share/91f05738debcd1535ee80cb10c82f414)
-    * [Introduction to Software Engineering]()
+    * [Introduction to Software Engineering](https://coursera.org/share/7e155ec49c1cc854432153e826727229)
     * Hands-on Introduction to Linux Commands and Shell Scripting **En progreso**
 * [**Scrum Master Certification**](https://coursera.org/share/b6eb1eccb295178d4e9ff1737eb96098) - LearnQuest (via Coursera)
    * [Introduction to Scrum Master Training](https://coursera.org/share/927244ef8c7c7e12a14abba7ef0c7c54)
