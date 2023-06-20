@@ -25,18 +25,6 @@ Tester Jr. (Manual) con formación previa como Traductora Pública Inglés-Espa�
    * [Scrum Master Certification: Scrum Methodologies]()
    * [Scrum Master Certification: Scaling Agile and the Team-of-Teams]()
    * [Combining Scrum with Other Agile Methodologies]()
-* **(New) Responsive Web Design** - FreeCodeCamp
-    * **Unidades completas:**
-      * Learn HTML by Building a Cat Photo App
-      * Learn Basic CSS by Building a Café Menu
-      * Learn CSS Colors by Building a Set of Colored Markers
-      * Learn HTML Forms by Building a Registration Form
-      * [**Certification Project: Survey Form**](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) - En progreso
-      * Learn CSS Box Model by Building a Rothko Painting
-      * Learn CSS Flexbox by Building a Photo Gallery
-      * Learn Typography by Building a Nutrition Label
-      * Learning Accessibility by Building a Quiz - en progreso
-
 
 
 * **HTML Course** - Code Academy  
@@ -58,10 +46,10 @@ Tester Jr. (Manual) con formación previa como Traductora Pública Inglés-Espa�
 
 
 ## Herramientas
-* Jira (básico)
+* Jira 
 * MantisBT
-* TestLink (básico)
-* SQL Server (básico)
+* TestLink 
+* SQL Server 
 * Microsoft Office
 * MySQL Workbench
 * Netbeans
