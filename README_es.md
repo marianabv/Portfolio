@@ -47,6 +47,9 @@ Tengo formación en programación orientada a objetos (Java), base de datos (SQL
 * Microsoft Office
 * MySQL Workbench
 * Netbeans
+* Redmine
+* iTOP
+* Docker
 
 ## Libros leídos
 ### En inglés:
