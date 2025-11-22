@@ -40,9 +40,10 @@ I am a Certified Translator (English-Spanish) with an IT background and Tester J
 * Netbeans
 * Canva 
 * MantisBT
-* Jira (Novice)
-* TestLink (Novice)
-* SQL Server (Novice)
+* Jira
+* Docker
+* SQL Server
+* Redmine
 
 
 ## Books Read
