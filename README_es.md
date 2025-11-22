@@ -42,7 +42,6 @@ Tengo formación en programación orientada a objetos (Java), base de datos (SQL
 ## Herramientas
 * Jira 
 * MantisBT
-* TestLink 
 * SQL Server 
 * Microsoft Office
 * MySQL Workbench
